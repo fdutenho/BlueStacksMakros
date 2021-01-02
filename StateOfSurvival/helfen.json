@@ -1,0 +1,88 @@
+{
+  "TimeCreated": "20210102T150554",
+  "Name": "Helfen",
+  "Events": [
+    {
+      "Timestamp": 1654,
+      "X": 70.3,
+      "Y": 92.81,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 1777,
+      "X": 70.3,
+      "Y": 92.81,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 2897,
+      "X": 54.05,
+      "Y": 85.51,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3001,
+      "X": 54.05,
+      "Y": 85.51,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 3742,
+      "X": 45.32,
+      "Y": 90.68,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3864,
+      "X": 45.32,
+      "Y": 90.68,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 5367,
+      "X": 96.98,
+      "Y": 5.17,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 5534,
+      "X": 96.98,
+      "Y": 5.17,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 6421,
+      "X": 96.98,
+      "Y": 4.86,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 6553,
+      "X": 96.98,
+      "Y": 4.86,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 600,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

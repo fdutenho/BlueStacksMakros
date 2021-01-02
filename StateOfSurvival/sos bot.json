@@ -1,0 +1,40 @@
+{
+  "TimeCreated": "20210102T203031",
+  "Name": "SoS bot",
+  "SourceRecordings": [
+    "{\r\n  \"TimeCreated\": \"20210102T150554\",\r\n  \"Name\": \"Helfen\",\r\n  \"Events\": [\r\n    {\r\n      \"Timestamp\": 1654,\r\n      \"X\": 70.3,\r\n      \"Y\": 92.81,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 1777,\r\n      \"X\": 70.3,\r\n      \"Y\": 92.81,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 2897,\r\n      \"X\": 54.05,\r\n      \"Y\": 85.51,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 3001,\r\n      \"X\": 54.05,\r\n      \"Y\": 85.51,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 3742,\r\n      \"X\": 45.32,\r\n      \"Y\": 90.68,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 3864,\r\n      \"X\": 45.32,\r\n      \"Y\": 90.68,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 5367,\r\n      \"X\": 96.98,\r\n      \"Y\": 5.17,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 5534,\r\n      \"X\": 96.98,\r\n      \"Y\": 5.17,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 6421,\r\n      \"X\": 96.98,\r\n      \"Y\": 4.86,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 6553,\r\n      \"X\": 96.98,\r\n      \"Y\": 4.86,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    }\r\n  ],\r\n  \"LoopType\": \"UntilStopped\",\r\n  \"LoopNumber\": 1,\r\n  \"LoopTime\": 0,\r\n  \"LoopInterval\": 600,\r\n  \"Acceleration\": 1.0,\r\n  \"PlayOnStart\": false,\r\n  \"DonotShowWindowOnFinish\": false,\r\n  \"RestartPlayer\": false,\r\n  \"RestartPlayerAfterMinutes\": 60,\r\n  \"ShortCut\": \"\",\r\n  \"UserName\": \"\",\r\n  \"MacroId\": \"\"\r\n}",
+    "{\r\n  \"TimeCreated\": \"20210102T203013\",\r\n  \"Name\": \"Post\",\r\n  \"Events\": [\r\n    {\r\n      \"Timestamp\": 1331,\r\n      \"X\": 96.35,\r\n      \"Y\": 93.82,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 1408,\r\n      \"X\": 96.35,\r\n      \"Y\": 93.82,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 2965,\r\n      \"X\": 7.3,\r\n      \"Y\": 96.05,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 3024,\r\n      \"X\": 7.41,\r\n      \"Y\": 96.05,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseMove\"\r\n    },\r\n    {\r\n      \"Timestamp\": 3064,\r\n      \"X\": 7.41,\r\n      \"Y\": 96.05,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 4258,\r\n      \"X\": 28.22,\r\n      \"Y\": 81.97,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 4367,\r\n      \"X\": 28.22,\r\n      \"Y\": 81.97,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 5560,\r\n      \"X\": 23.66,\r\n      \"Y\": 94.63,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 5616,\r\n      \"X\": 23.66,\r\n      \"Y\": 94.63,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 6312,\r\n      \"X\": 42.3,\r\n      \"Y\": 73.25,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 6336,\r\n      \"X\": 42.47,\r\n      \"Y\": 73.25,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseMove\"\r\n    },\r\n    {\r\n      \"Timestamp\": 6408,\r\n      \"X\": 42.47,\r\n      \"Y\": 73.25,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    },\r\n    {\r\n      \"Timestamp\": 7688,\r\n      \"X\": 97.55,\r\n      \"Y\": 3.95,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseDown\"\r\n    },\r\n    {\r\n      \"Timestamp\": 7771,\r\n      \"X\": 97.55,\r\n      \"Y\": 3.95,\r\n      \"Delta\": 0,\r\n      \"EventType\": \"MouseUp\"\r\n    }\r\n  ],\r\n  \"LoopType\": \"TillLoopNumber\",\r\n  \"LoopNumber\": 1,\r\n  \"LoopTime\": 0,\r\n  \"LoopInterval\": 0,\r\n  \"Acceleration\": 1.0,\r\n  \"PlayOnStart\": false,\r\n  \"DonotShowWindowOnFinish\": false,\r\n  \"RestartPlayer\": false,\r\n  \"RestartPlayerAfterMinutes\": 60,\r\n  \"ShortCut\": \"\",\r\n  \"UserName\": \"\",\r\n  \"MacroId\": \"\"\r\n}"
+  ],
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "Helfen"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1.0
+    },
+    {
+      "MacrosToRun": [
+        "Post"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1.0
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 600,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": true,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "B",
+  "UserName": "",
+  "MacroId": ""
+}

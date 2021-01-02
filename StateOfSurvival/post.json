@@ -1,0 +1,116 @@
+{
+  "TimeCreated": "20210102T203013",
+  "Name": "Post",
+  "Events": [
+    {
+      "Timestamp": 1331,
+      "X": 96.35,
+      "Y": 93.82,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 1408,
+      "X": 96.35,
+      "Y": 93.82,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 2965,
+      "X": 7.3,
+      "Y": 96.05,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3024,
+      "X": 7.41,
+      "Y": 96.05,
+      "Delta": 0,
+      "EventType": "MouseMove"
+    },
+    {
+      "Timestamp": 3064,
+      "X": 7.41,
+      "Y": 96.05,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 4258,
+      "X": 28.22,
+      "Y": 81.97,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 4367,
+      "X": 28.22,
+      "Y": 81.97,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 5560,
+      "X": 23.66,
+      "Y": 94.63,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 5616,
+      "X": 23.66,
+      "Y": 94.63,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 6312,
+      "X": 42.3,
+      "Y": 73.25,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 6336,
+      "X": 42.47,
+      "Y": 73.25,
+      "Delta": 0,
+      "EventType": "MouseMove"
+    },
+    {
+      "Timestamp": 6408,
+      "X": 42.47,
+      "Y": 73.25,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 7688,
+      "X": 97.55,
+      "Y": 3.95,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 7771,
+      "X": 97.55,
+      "Y": 3.95,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
