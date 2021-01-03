@@ -2,7 +2,7 @@
 
 Some BlueStacks macros
 
-## State of Survival
+## [State of Survival](./StateOfSurvival/)
 
 This Game is available on iOS and Android. The ones who like to play on PC
 via <https://www.bluestacks.com/> know that you can record, export and import
